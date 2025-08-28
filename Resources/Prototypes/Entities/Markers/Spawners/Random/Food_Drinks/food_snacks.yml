@@ -74,6 +74,8 @@
       - FoodSnackPokeysticks
       - FoodSnackChocobanana
       - FoodSnackDango
-      - FoodSnackProteinbar      
+      - FoodSnackProteinbar
+      # Polonium
+      - FoodSnackDumplings
     chance: 0.8
     offset: 0.0
