@@ -3998,3 +3998,12 @@ Entries:
   id: 8750
   time: '2025-09-14T20:48:45.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/70
+- author: Tofi-Dev
+  changes:
+  - message: "Dodano nowe t\u0142umaczenie do gry"
+    type: Add
+  - message: "Przywr\xF3cono zamian\u0119 polskiego tekstu na d\u017Awi\u0119k emocji"
+    type: Fix
+  id: 8751
+  time: '2025-09-21T23:49:06.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/71
