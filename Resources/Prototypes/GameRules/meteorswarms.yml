@@ -145,7 +145,7 @@
     minimumPlayers: 0
   - type: MeteorSwarm
     announcement: station-event-space-dust-start-announcement
-    announcementSound: /Audio/Announcements/attention.ogg
+    announcementSound: /Audio/_Polonium/Announcements/attention.ogg
     nonDirectional: true
     meteors:
       MeteorSpaceDust: 1
@@ -200,7 +200,7 @@
     weight: 0.05
   - type: MeteorSwarm
     announcement: station-event-meteor-urist-start-announcement
-    announcementSound: /Audio/Announcements/attention.ogg
+    announcementSound: /Audio/_Polonium/Announcements/attention.ogg
     meteors:
       MeteorUrist: 1
     waves:
@@ -217,8 +217,8 @@
   - type: StationEvent
     startAnnouncement: station-event-immovable-rod-start-announcement
     startAudio:
-      path: /Audio/Announcements/attention.ogg
-    weight: 0.1 #oh my god
+      path: /Audio/_Polonium/Announcements/attention.ogg
+    weight: 3.5
     reoccurrenceDelay: 1
     duration: 1
     earliestStart: 60 # funky - if it rolls it deserves it
@@ -252,3 +252,78 @@
     - id: ImmovableRodWeh
       prob: 0.0075
       orGroup: rodProto
+
+- type: entity
+  parent: GameRuleMeteorSwarm
+  id: GameRuleCowSwarm
+  components:
+  - type: StationEvent
+    weight: 0.05
+  - type: MeteorSwarm
+    announcement: station-event-meteor-cow-start-announcement
+    announcementSound: /Audio/_Polonium/Announcements/attention.ogg
+    meteors:
+      MeteorCow: 1
+    waves:
+      min: 3
+      max: 3
+    meteorsPerWave:
+      min: 10
+      max: 10
+
+- type: entity
+  parent: GameRuleMeteorSwarm
+  id: GameRuleClownSwarm
+  components:
+  - type: StationEvent
+    weight: 0.05
+  - type: MeteorSwarm
+    announcement: station-event-meteor-clown-start-announcement
+    announcementSound: /Audio/_Polonium/Announcements/attention.ogg
+    meteors:
+      MeteorClown: 1
+    waves:
+      min: 3
+      max: 3
+    meteorsPerWave:
+      min: 10
+      max: 10
+
+- type: entity
+  parent: GameRuleMeteorSwarm
+  id: GameRulePotatoSwarm
+  components:
+  - type: StationEvent
+    weight: 0.05
+  - type: MeteorSwarm
+    announcement: station-event-meteor-potato-start-announcement
+    announcementSound: /Audio/_Polonium/Announcements/attention.ogg
+    meteors:
+      MeteorPotato: 1
+    waves:
+      min: 3
+      max: 3
+    meteorsPerWave:
+      min: 10
+      max: 10
+
+- type: entity
+  parent: GameRuleMeteorSwarm
+  id: GameRuleFunSwarm
+  components:
+  - type: StationEvent
+    weight: 0.03
+  - type: MeteorSwarm
+    announcement: station-event-fun-swarm-start-announcement
+    announcementSound: /Audio/_Polonium/Announcements/attention.ogg
+    meteors:
+      MeteorClown: 1
+      MeteorCow: 1
+      MeteorPotato: 1
+      MeteorUrist: 1
+    waves:
+      min: 3
+      max: 3
+    meteorsPerWave:
+      min: 8
+      max: 12

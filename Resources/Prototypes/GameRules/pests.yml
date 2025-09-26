@@ -32,6 +32,9 @@
   parent: BaseStationEventShortDelay
   components:
   - type: StationEvent
+    startAnnouncement: station-event-vent-creatures-start-announcement
+    startAudio:
+      path: /Audio/_Polonium/Announcements/attention.ogg
     earliestStart: 15
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
@@ -56,6 +59,9 @@
   parent: BaseStationEventLongDelay #funky
   components:
   - type: StationEvent
+    startAnnouncement: station-event-vent-creatures-start-announcement
+    startAudio:
+      path: /Audio/_Polonium/Announcements/attention.ogg
     earliestStart: 15
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
@@ -78,6 +84,9 @@
   parent: BaseStationEventShortDelay
   components:
   - type: StationEvent
+    startAnnouncement: station-event-vent-creatures-start-announcement
+    startAudio:
+      path: /Audio/_Polonium/Announcements/attention.ogg
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
   - type: VentCrittersRule
@@ -98,6 +107,9 @@
   parent: BaseStationEventShortDelay
   components:
   - type: StationEvent
+    startAnnouncement: station-event-vent-creatures-start-announcement
+    startAudio:
+      path: /Audio/_Polonium/Announcements/attention.ogg
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
   - type: VentCrittersRule
@@ -115,6 +127,9 @@
   parent: BaseStationEventShortDelay
   components:
   - type: StationEvent
+    startAnnouncement: station-event-vent-creatures-start-announcement
+    startAudio:
+      path: /Audio/_Polonium/Announcements/attention.ogg
     earliestStart: 15
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
