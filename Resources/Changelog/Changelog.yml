@@ -4072,3 +4072,11 @@ Entries:
   id: 9011
   time: '2025-10-10T13:44:57.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/81
+- author: Nikitosych
+  changes:
+  - message: "Przet\u0142umaczono liczne wyrazy ze s\u0142ownika generowanych losowo\
+      \ s\u0142\xF3w, w tym imiona postaci, kody agent\xF3w itp"
+    type: Tweak
+  id: 9012
+  time: '2025-10-10T15:15:55.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/85
