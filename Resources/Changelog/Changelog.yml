@@ -4102,3 +4102,11 @@ Entries:
   id: 9015
   time: '2025-10-11T07:52:35.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/88
+- author: Tofi-Dev
+  changes:
+  - message: "Poprawia liter\xF3wk\u0119 z sci\u0105gniecia g\xF3rnej cz\u0119sci\
+      \ jumpsuita"
+    type: Fix
+  id: 9016
+  time: '2025-10-20T05:49:09.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/90
