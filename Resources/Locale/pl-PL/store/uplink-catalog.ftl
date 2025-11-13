@@ -282,8 +282,8 @@ uplink-syndicate-jaws-of-life-desc = A combined prying and cutting tool. Useful 
 uplink-duffel-surgery-name = Surgical Duffel Bag
 uplink-duffel-surgery-desc = A large duffel bag containing a full suite of surgical tools.
 
-uplink-power-sink-name = Power Sink
-uplink-power-sink-desc = Drains immense amounts of electricity from the grid, then explodes once it's saturated. Use wrench to connect it to wires.
+uplink-power-sink-name = Pochłaniacz energii
+uplink-power-sink-desc = Pochłania gigantyczne ilości energii z sieci, po napełnieniu eksploduje. Użyj klucza aby przykręcić przewody.
 
 uplink-carp-dehydrated-name = Dehydrated Space Carp
 uplink-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life space carp!
