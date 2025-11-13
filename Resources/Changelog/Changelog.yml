@@ -4145,3 +4145,10 @@ Entries:
   id: 9020
   time: '2025-11-13T01:17:55.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/99
+- author: Lukasz825700516
+  changes:
+  - message: "przet\u0142umaczono power sink"
+    type: Add
+  id: 9021
+  time: '2025-11-13T01:23:14.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/100
