@@ -1,19 +1,4 @@
 ﻿Entries:
-- author: ElectroJr
-  changes:
-  - message: Toolshed console commands have been reworked. Some old commands may no
-      longer work.
-    type: Tweak
-  id: 7746
-  time: '2024-12-21T06:45:48.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33598
-- author: muburu
-  changes:
-  - message: Space Ninjas now have silent footsteps.
-    type: Tweak
-  id: 7747
-  time: '2024-12-23T14:24:10.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33280
 - author: amatwiedle
   changes:
   - message: Borgs can no longer drink from tools provided by modules.
@@ -3922,3 +3907,17 @@
   id: 9053
   time: '2025-11-22T15:37:58.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/307
+- author: Nikitapl
+  changes:
+  - message: "Poprawione liczne b\u0142\u0119dy zwi\u0105zane z t\u0142umaczeniami"
+    type: Fix
+  id: 9054
+  time: '2025-11-22T16:18:36.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/309
+- author: Nikitapl
+  changes:
+  - message: "od teraz wiadomo\u015Bci OOC znowu s\u0105 rejestrowane na Discordzie"
+    type: Fix
+  id: 9055
+  time: '2025-11-22T16:18:58.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/308
