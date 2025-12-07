@@ -100,6 +100,6 @@ jobs:
           commit_message: "chore: Automatically update REUSE headers"
           commit_user_name: "Polonium-bot"
           commit_user_email: "admin@ss14.pl"
-          commit_author: "Polonium-bot admin@ss14.pl"
+          commit_author: "Polonium-bot <admin@ss14.pl>"
           skip_dirty_check: false
           skip_fetch: true
