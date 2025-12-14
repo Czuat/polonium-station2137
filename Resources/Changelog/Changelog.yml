@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: DylanWhittingham
-  changes:
-  - message: Added appraisal tool sound.
-    type: Add
-  id: 7775
-  time: '2025-01-02T16:46:13.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34119
 - author: ps3moira
   changes:
   - message: Changed tables and counter iconsmoothing
@@ -3951,3 +3944,12 @@
   id: 9082
   time: '2025-12-14T17:43:13.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/350
+- author: Nikitapl
+  changes:
+  - message: "Przet\u0142umaczono wyrazy dot. duch\xF3w, pojemnik\xF3w"
+    type: Add
+  - message: "Drobne t\u0142umaczenia HUDa"
+    type: Add
+  id: 9083
+  time: '2025-12-14T17:52:05.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/349
