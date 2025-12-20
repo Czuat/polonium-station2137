@@ -1,35 +1,4 @@
 ﻿Entries:
-- author: ps3moira
-  changes:
-  - message: Changed tables and counter iconsmoothing
-    type: Tweak
-  id: 7776
-  time: '2025-01-02T16:49:30.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/32673
-- author: SlamBamActionman
-  changes:
-  - message: Added Chameleon PDA, found in the Thief & Uplink Chameleon Kit!
-    type: Add
-  - message: The PDA "owner" field now updates upon having a new ID inserted.
-    type: Tweak
-  id: 7777
-  time: '2025-01-02T18:23:29.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/30514
-- author: FairlySadPanda
-  changes:
-  - message: Added a few new actions that a scrambled borg can encounter via an ion
-      storm.
-    type: Add
-  id: 7778
-  time: '2025-01-02T18:55:57.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34180
-- author: Deerstop
-  changes:
-  - message: Map rotation now includes Elkridge Depot
-    type: Tweak
-  id: 7779
-  time: '2025-01-04T00:40:54.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34206
 - author: themias
   changes:
   - message: Forensics are now applied to bullets when loading using an ammo box.
@@ -3953,3 +3922,43 @@
   id: 9083
   time: '2025-12-14T17:52:05.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/349
+- author: Nikitapl
+  changes:
+  - message: "Przet\u0142umaczono wszystkie r\u0119kawiczki i kajdanki"
+    type: Add
+  id: 9084
+  time: '2025-12-20T13:22:01.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/359
+- author: Nikitapl
+  changes:
+  - message: "Nowa polska bro\u0144 - Wz.96 Beryl!"
+    type: Add
+  - message: "Nowa polska bro\u0144 - Glauberyt!"
+    type: Add
+  - message: Dodano Beryl i Glauberyt jako standardowe uzbrojenie ochrony na Corku
+      i Clusterze
+    type: Tweak
+  - message: Dodano Beryl i Glauberyt do uplinka syndykatu
+    type: Tweak
+  - message: "Dodano Beryl i Glauberyt do fab\xF3w"
+    type: Tweak
+  - message: "Poprawiono b\u0142\u0119dy wizualne polskich broni przy noszeniu na\
+      \ plecach"
+    type: Fix
+  id: 9085
+  time: '2025-12-20T08:36:40.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/355
+- author: Nikitapl
+  changes:
+  - message: "Przet\u0142umaczono wszystkie narz\u0119dzia"
+    type: Add
+  id: 9086
+  time: '2025-12-20T13:18:29.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/356
+- author: Nikitosych
+  changes:
+  - message: "Przet\u0142umaczono wszystkie materia\u0142y"
+    type: Add
+  id: 9087
+  time: '2025-12-20T13:21:04.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/358
