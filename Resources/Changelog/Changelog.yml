@@ -1,18 +1,4 @@
 ﻿Entries:
-- author: zHonys
-  changes:
-  - message: Items with collisions (like mousetraps) won't kept doors form opening
-    type: Fix
-  id: 7805
-  time: '2025-01-13T10:07:18.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34045
-- author: Coolsurf6
-  changes:
-  - message: The "Jazz" style for the Electric Guitar now uses the correct soundfont.
-    type: Tweak
-  id: 7806
-  time: '2025-01-13T10:07:33.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33363
 - author: southbridge-fur
   changes:
   - message: The Pride-O-Mat vending machine has been ported to upstream.
@@ -4033,3 +4019,22 @@
   id: 9112
   time: '2026-01-16T12:30:56.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/392
+- author: Zintex
+  changes:
+  - message: "Medyk Wi\u0119zienny dodany do map: amber, cork, divide, eden, elkridge,\
+      \ gax, glacier, microstation, olympus."
+    type: Add
+  - message: "Szafka Medyka Wi\u0119ziennego dodana do packed i roid."
+    type: Add
+  - message: "Naprawiony spawn Medyka Wi\u0119ziennego na saltern."
+    type: Fix
+  id: 9113
+  time: '2026-01-16T17:52:18.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/391
+- author: Czuat
+  changes:
+  - message: "Przet\u0142umaczono Nastroje rasy Thaven, kilka cech i pare poprawek"
+    type: Tweak
+  id: 9114
+  time: '2026-01-16T17:56:07.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/390
