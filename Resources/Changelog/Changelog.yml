@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: ArtisticRoomba
   changes:
-  - message: The station anchor machine board can no longer be printed at the circuit
-      imprinter.
-    type: Remove
-  id: 7810
-  time: '2025-01-15T16:26:19.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34358
-- author: ArtisticRoomba
-  changes:
   - message: Mime PDA item interactions (insertions/ejections of IDs, pens, etc.)
       are now silent.
     type: Tweak
@@ -4040,3 +4032,14 @@
   id: 9117
   time: '2026-01-17T16:40:35.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/394
+- author: Zintex
+  changes:
+  - message: Dodano akcent wiejski.
+    type: Add
+  - message: "Dodano akcent ma\u0142opolski."
+    type: Add
+  - message: "Dodano brakuj\u0105ce locale en dla akcentu kurwalskiego."
+    type: Fix
+  id: 9118
+  time: '2026-01-17T17:43:46.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/395
