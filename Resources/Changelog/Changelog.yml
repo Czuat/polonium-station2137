@@ -1,18 +1,4 @@
 ﻿Entries:
-- author: Killerqu00
-  changes:
-  - message: Pet carriers can now be crafted.
-    type: Add
-  id: 7808
-  time: '2025-01-14T22:34:04.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34431
-- author: themias
-  changes:
-  - message: Fixed muzzles not working on some characters (e.g. dwarves)
-    type: Fix
-  id: 7809
-  time: '2025-01-15T00:10:39.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34419
 - author: ArtisticRoomba
   changes:
   - message: The station anchor machine board can no longer be printed at the circuit
@@ -4040,3 +4026,17 @@
   id: 9115
   time: '2026-01-17T16:30:46.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/396
+- author: Nikitapl
+  changes:
+  - message: "Dodano czapk\u0119 D\u017Cina"
+    type: Add
+  id: 9116
+  time: '2026-01-17T16:37:34.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/397
+- author: Czuat
+  changes:
+  - message: "Zmieniono opis zestawu z\u0142odzieja na poprawny"
+    type: Tweak
+  id: 9117
+  time: '2026-01-17T16:40:35.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/394
