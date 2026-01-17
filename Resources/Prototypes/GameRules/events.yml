@@ -54,6 +54,7 @@
 # SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Middleson5 <Chance@thethiers.com>
 # SPDX-FileCopyrightText: 2025 Mish <bluscout78@yahoo.com>
+# SPDX-FileCopyrightText: 2025 Nikita (Nick) <174215049+nikitosych@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Quantum-cross <7065792+Quantum-cross@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Sophia Rustfield <gitlab@catwolf.xyz>
 # SPDX-FileCopyrightText: 2025 SpaceCat~Chan <49094338+SpaceCat-Chan@users.noreply.github.com>
@@ -66,6 +67,9 @@
 # SPDX-FileCopyrightText: 2025 misghast <51974455+misterghast@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 pa.pecherskij <pa.pecherskij@interfax.ru>
 # SPDX-FileCopyrightText: 2025 taydeo <td12233a@gmail.com>
+# SPDX-FileCopyrightText: 2025 thepinkscreen <76622775+thepinkscreen@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2026 Polonium-bot <admin@ss14.pl>
+# SPDX-FileCopyrightText: 2026 nikitosych <174215049+nikitosych@users.noreply.github.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
@@ -633,7 +637,7 @@
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
-      path: /Audio/Announcements/aliens.ogg
+      path: /Audio/_Polonium/Announcements/aliens.ogg
     earliestStart: 20
     minimumPlayers: 10
     weight: 1
@@ -773,6 +777,8 @@
     weight: 8
     reoccurrenceDelay: 20
     duration: 1
+    startAudio:
+      path: /Audio/_Polonium/Announcements/ion_storm.ogg
   - type: IonStormRule
 
 - type: entity
