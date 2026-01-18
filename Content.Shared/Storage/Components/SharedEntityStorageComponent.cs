@@ -52,6 +52,8 @@
 // SPDX-FileCopyrightText: 2025 ArtisticRoomba <145879011+ArtisticRoomba@users.noreply.github.com>
 // SPDX-FileCopyrightText: 2025 JoulesBerg <104539820+JoulesBerg@users.noreply.github.com>
 // SPDX-FileCopyrightText: 2025 taydeo <td12233a@gmail.com>
+// SPDX-FileCopyrightText: 2026 Polonium-bot <admin@ss14.pl>
+// SPDX-FileCopyrightText: 2026 nikitosych <174215049+nikitosych@users.noreply.github.com>
 //
 // SPDX-License-Identifier: MIT
 
@@ -169,6 +171,9 @@ public abstract partial class SharedEntityStorageComponent : Component
     [DataField]
     public SoundSpecifier OpenSound = new SoundPathSpecifier("/Audio/Effects/closetopen.ogg");
 
+    [DataField]
+    public SoundSpecifier? FirstOpenSound;
+
     /// <summary>
     ///     Whitelist for what entities are allowed to be inserted into this container. If this is not null, the
     ///     standard requirement that the entity must be an item or mob is waived.
@@ -181,24 +186,33 @@ public abstract partial class SharedEntityStorageComponent : Component
     /// </summary>
     [ViewVariables]
     public Container Contents = default!;
+
+    [ViewVariables(VVAccess.ReadWrite)]
+    public bool FirstTimePlayed = false;
+
 }
 
 [Serializable, NetSerializable]
 public sealed class EntityStorageComponentState : ComponentState
 {
     public bool Open;
-
     public int Capacity;
-
     public bool IsCollidableWhenOpen;
-
     public bool OpenOnMove;
-
     public float EnteringRange;
-
     public TimeSpan NextInternalOpenAttempt;
+    public SoundSpecifier? FirstOpenSound;
+    public bool FirstTimePlayed;
 
-    public EntityStorageComponentState(bool open, int capacity, bool isCollidableWhenOpen, bool openOnMove, float enteringRange, TimeSpan nextInternalOpenAttempt)
+    public EntityStorageComponentState(
+        bool open,
+        int capacity,
+        bool isCollidableWhenOpen,
+        bool openOnMove,
+        float enteringRange,
+        TimeSpan nextInternalOpenAttempt,
+        SoundSpecifier? firstOpenSound,
+        bool firstTimePlayed)
     {
         Open = open;
         Capacity = capacity;
@@ -206,6 +220,8 @@ public sealed class EntityStorageComponentState : ComponentState
         OpenOnMove = openOnMove;
         EnteringRange = enteringRange;
         NextInternalOpenAttempt = nextInternalOpenAttempt;
+        FirstOpenSound = firstOpenSound;
+        FirstTimePlayed = firstTimePlayed;
     }
 }
 
