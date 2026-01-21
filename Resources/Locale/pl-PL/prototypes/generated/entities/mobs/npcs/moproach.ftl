@@ -1,3 +1,3 @@
-ent-MobMoproach = mopaluch
-    .desc = Ten mały karaluch ma na łapkach mopowe buty! Jakie to urocze!
+ent-MobMoproach = ćmopaluch
+    .desc = Ten mały ćmaraluch ma na łapkach mopowe buty! Jakie to urocze!
     .gender = male
