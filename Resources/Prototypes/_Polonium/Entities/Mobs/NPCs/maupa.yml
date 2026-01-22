@@ -38,7 +38,8 @@
   - type: MeleeWeapon
     soundHit:
       path: "/Audio/_Polonium/Weapons/Melee/punch.ogg"
-      variation: 0.1
+      params:
+        variation: 0.1
     angle: 20
     attackRate: 1.2
     animation: WeaponArcBite
