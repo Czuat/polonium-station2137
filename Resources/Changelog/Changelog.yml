@@ -1,18 +1,4 @@
 ﻿Entries:
-- author: Kickguy223
-  changes:
-  - message: Puddles will now correctly evaporate
-    type: Fix
-  id: 7815
-  time: '2025-01-15T21:21:20.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34303
-- author: themias
-  changes:
-  - message: The DNA scrambler implant no longer updates your ID card or station record
-    type: Fix
-  id: 7816
-  time: '2025-01-15T22:49:51.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34091
 - author: jbox144
   changes:
   - message: Added Plasma Station
@@ -4049,3 +4035,18 @@
   id: 9122
   time: '2026-01-18T20:31:04.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/403
+- author: Zintex
+  changes:
+  - message: "Spawnowanie w lokacji late join zamiast w losowej, je\u015Bli nie znaleziono\
+      \ w\u0142a\u015Bciwego spawn pointu."
+    type: Tweak
+  id: 9123
+  time: '2026-01-22T17:58:54.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/385
+- author: Czuat
+  changes:
+  - message: "\u0107mo-karalucha na \u0107maralucha oraz mopalucha na \u0107mopalucha"
+    type: Tweak
+  id: 9124
+  time: '2026-01-22T17:58:40.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/408
