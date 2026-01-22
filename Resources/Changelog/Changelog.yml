@@ -1,27 +1,4 @@
 ﻿Entries:
-- author: jbox144
-  changes:
-  - message: Reduced Plasma's minimum population to 20, maximum population to 60
-    type: Tweak
-  - message: Reduced Plasma's clown jobs from 2 to 1
-    type: Tweak
-  id: 7818
-  time: '2025-01-16T08:51:17.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34462
-- author: pcaessayrs
-  changes:
-  - message: Uranium, Cak, and BreadDog are no longer space garbage.
-    type: Fix
-  id: 7819
-  time: '2025-01-16T11:40:22.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34192
-- author: GansuLalan
-  changes:
-  - message: Pianos will no longer push players off when climbing them
-    type: Fix
-  id: 7820
-  time: '2025-01-16T12:25:08.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33690
 - author: Southbridge
   changes:
   - message: More Ionstorm law elements have been added
@@ -4050,3 +4027,30 @@
   id: 9125
   time: '2026-01-22T18:05:53.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/405
+- author: Zintex
+  changes:
+  - message: "Dodano skrzyni\u0119 materia\u0142\xF3w do silosu do zam\xF3wienia w\
+      \ Cargo"
+    type: Add
+  id: 9126
+  time: '2026-01-22T20:51:46.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/407
+- author: Zintex
+  changes:
+  - message: Dodano atlas do rotacji.
+    type: Add
+  - message: Dodano brigmeda na atlas.
+    type: Add
+  id: 9127
+  time: '2026-01-22T20:50:32.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/409
+- author: Zintex
+  changes:
+  - message: "Dodano krawaty w barwach departament\xF3w"
+    type: Add
+  - message: "Dodano krawaty i szaliki do wyposa\u017Cenia zawod\xF3w oraz do vendor\xF3\
+      w."
+    type: Add
+  id: 9128
+  time: '2026-01-22T20:52:24.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/404
