@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Southbridge
-  changes:
-  - message: More Ionstorm law elements have been added
-    type: Add
-  id: 7821
-  time: '2025-01-16T20:49:47.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34197
 - author: southbridge-fur
   changes:
   - message: Pride-O-Mats now have scarves instead of cloaks
@@ -4054,3 +4047,10 @@
   id: 9128
   time: '2026-01-22T20:52:24.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/404
+- author: pinkscreen
+  changes:
+  - message: tlumaczenie metashield
+    type: Add
+  id: 9129
+  time: '2026-01-23T01:25:31.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/411
