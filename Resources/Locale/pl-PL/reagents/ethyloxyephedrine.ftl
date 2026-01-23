@@ -1,4 +1,4 @@
 ### Messages that pop up when metabolizing ethyloxyephedrine
 
-ethyloxyephedrine-effect-feeling-awake = Czujesz się bardziej rześki.
-ethyloxyephedrine-effect-clear-mind = Twoje powieki stają się lekkie.
+ethyloxyephedrine-effect-feeling-awake = Czujesz się pobudzony.
+ethyloxyephedrine-effect-clear-mind = Twoje myśli stają się klarowne.
