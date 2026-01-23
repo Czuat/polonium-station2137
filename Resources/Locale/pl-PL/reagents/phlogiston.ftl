@@ -1,1 +1,1 @@
-phlogiston-plasma-created = Mieszanka bąbelkuje, a z niej ulatnia sie plazma!
+phlogiston-plasma-created = Mieszanka bąbelkuje, a z niej ulatnia się plazma!
