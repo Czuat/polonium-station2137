@@ -1,1 +1,1 @@
-phlogiston-plasma-created = The mixture bubbles, and plasma rises from it!
+phlogiston-plasma-created = Mieszanka bąbelkuje, a z niej ulatnia sie plazma!
