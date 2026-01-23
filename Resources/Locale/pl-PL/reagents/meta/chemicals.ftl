@@ -19,4 +19,4 @@ reagent-desc-sodium-polyacrylate = Super chłonny polimer z listą użyć w prze
 reagent-name-cellulose = cellulose
 reagent-desc-cellulose = A crystaline polydextrose polymer, plants swear by this stuff.
 reagent-name-rororium = rororium
-reagent-desc-rororium = Dziwna substancja która wypełnia rdzenie rojolordów którzy panoszą się po asteroidach górniczych. Uważana za źródło ich zdolności regeneracyjnych.
+reagent-desc-rororium = Dziwna substancja która wypełnia rdzenie władców roju którzy panoszą się po asteroidach górniczych. Uważana za źródło ich zdolności regeneracyjnych.
