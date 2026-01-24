@@ -15,4 +15,4 @@ reagent-desc-ammonia = Skuteczny nawóz, daje twoim rośliną środki odżywcze.
 reagent-name-diethylamine = dietyloamina
 reagent-desc-diethylamine = Bardzo silny nawóz, dostarcza rośliną środki odrzywcze, usuwa szkodniki, i nawet czasami przyśpiesza wzrost.
 reagent-name-sedin = uziarniacz
-reagent-desc-sedin = Zmodyfikowana wersja diethylaminy która potrafi odratować nasiona rośliny kosztem rozmiarów owoców.
+reagent-desc-sedin = Zmodyfikowana wersja dietyloaminy która potrafi odratować nasiona rośliny kosztem rozmiarów owoców.
