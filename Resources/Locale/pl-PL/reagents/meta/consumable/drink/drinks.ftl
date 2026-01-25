@@ -1,8 +1,8 @@
-reagent-name-coffee = coffee
+reagent-name-coffee = kawa
 reagent-desc-coffee = A drink made from brewed coffee beans. Contains a moderate amount of caffeine.
-reagent-name-cream = cream
+reagent-name-cream = krem
 reagent-desc-cream = The fatty, still liquid part of milk. Why don't you mix this with sum scotch, eh?
-reagent-name-coconut-water = coconut water
+reagent-name-coconut-water = woda kokosowa
 reagent-desc-coconut-water = A favorite of survivors on deserted islands.
 reagent-name-cream-of-coconut = cream of coconut
 reagent-desc-cream-of-coconut = Sweet, syrupy version of coconut cream with added sugar.
