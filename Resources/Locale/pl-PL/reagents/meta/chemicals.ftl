@@ -1,11 +1,11 @@
-ureagent-name-acetone = aceton
+reagent-name-acetone = aceton
 reagent-desc-acetone = Śliski, lekko rakotwórczy płyn. Ma mnóstwo nudnych zastosowań w codziennym życiu.
 reagent-name-phenol = fenol
 reagent-desc-phenol = Aromatyczny pierścień węgli z grupą hydroksylową. Składnik niektórych użyteczych leków, nie ma żadnych właściwości leczniczych sam z siebie.
 reagent-name-sodium-carbonate = węglan sodu
 reagent-desc-sodium-carbonate = Biała, bezwonna, sól rozpuszczalna w wodzie pozostawiająca roztwór alkaiczny. Również znany jako soda kalcynowana.
 reagent-name-artifexium = artifexium
-eagent-desc-artifexium = Lawendowa mieszanka mikroskopijnych fragmentów artefaktów i silnego kwasu. Ma właściwość aktywowania artefaktów.
+reagent-desc-artifexium = Lawendowa mieszanka mikroskopijnych fragmentów artefaktów i silnego kwasu. Ma właściwość aktywowania artefaktów.
 reagent-name-benzene = benzen
 reagent-desc-benzene = Aromatyczny, lekko rakotwórczy, pierścień węgli. Podstawa dla wielu związków organicznych.
 reagent-name-hydroxide = wodorotlenek
